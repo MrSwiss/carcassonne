@@ -39,4 +39,4 @@ View the project roadmap [here](https://waffle.io/meat-and-colonel/meat-and-colo
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+See [CONTRIBUTING.md](misc/CONTRIBUTING.md) for contribution guidelines.
